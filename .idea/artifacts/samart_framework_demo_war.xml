@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="samart-framework-demo:war">
+    <output-path>$PROJECT_DIR$/samart-framework-demo/target</output-path>
+    <root id="archive" name="smart-framework-demo.war">
+      <element id="artifact" artifact-name="samart-framework-demo:war exploded" />
+    </root>
+  </artifact>
+</component>
